@@ -1,5 +1,5 @@
 token=NTU0OTkxNjI5MjM3MjIzNDI2.D2ksEw.Qbbt11OkWEsXdJ7bJvre95NDmHQ
 owner=347026764351930378
-prefix= j
+prefix= K
 stayinchannel=true
 game= Creited By Artful DoDger
